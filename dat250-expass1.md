@@ -11,10 +11,10 @@ Installation progress report
 
 I already had the Git bash client installed, so I updated it by<br>
 running the command "git update-git-for-windows"<br>
-and verified by checking that the version was correct using the command "git version".
+and verified by checking that the version was correct using the command "git version" in the Git Bash.
 
-I had an earlier version of Intellij already installed,<br>
-but since a new version had been released I had to download and follow the installation process anew from the jetbrains web site.
+I had an earlier version of Intellij already installed, but since a new version had been released<br>
+I had to download and follow the installation process anew from the jetbrains web site.<br>
 After the installation was completed, I launched the IDE and configured a few of the settings.<br>
 I then created a new project to confirm that it was indeed working.
 
@@ -24,9 +24,6 @@ and comparing the output to what the Maven installation website showed.
 
 I had a few JDKs already installed, but decided to install the latest version (14.0.2) in order to be up to date for this course.<br>
 Verified by using the command "java -version" in a command prompt and confirming that the version displayed was correct.
-
-
-
 
 
 Technical difficulties?
