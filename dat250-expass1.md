@@ -28,5 +28,16 @@ Verified by using the command "java -version" in a command prompt and confirming
 
 Technical difficulties?
 ------------------------
+After setting up Heroku and progressing through the<br>
+getting started guide on https://devcenter.heroku.com/articles/getting-started-with-java#define-config-vars<br>
+I ran into a problem with the command: heroku config:set ENERGY="20 GeV"<br>
+Yieldig the following error message: 'C:\Program' is not recognized as an internal or external command, operable program or batch file.
+
+This problem is as of yet unresolved.
+
+
+
+
+
 
 
