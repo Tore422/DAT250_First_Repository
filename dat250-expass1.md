@@ -26,8 +26,8 @@ I had a few JDKs already installed, but decided to install the latest version (1
 Verified by using the command "java -version" in a command prompt and confirming that the version displayed was correct.
 
 
-Technical difficulties?
-------------------------
+Technical difficulties
+-----------------------
 After setting up Heroku and progressing through the<br>
 getting started guide on https://devcenter.heroku.com/articles/getting-started-with-java#define-config-vars<br>
 I ran into a problem with the command: heroku config:set ENERGY="20 GeV"<br>
