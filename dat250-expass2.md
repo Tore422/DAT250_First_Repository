@@ -33,7 +33,8 @@ Experiment repositories
 ------------------------
 
 Experiment 1<br>
-https://github.com/Tore422/DAT250_JPA_Assignment_Experiment1
+https://github.com/Tore422/DAT250_JPA_Assignment_Experiment1_Simple
+https://github.com/Tore422/DAT250_JPA_Assignment_Experiment1_Eclipselink
 
 
 Experiment 2<br>
