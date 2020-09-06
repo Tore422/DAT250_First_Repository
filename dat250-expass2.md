@@ -32,10 +32,11 @@ While foolowing the vogella turtorial for experiment 1, I encoutered a few probl
 Experiment repositories
 ------------------------
 
-Experiment 1
+Experiment 1<br>
+https://github.com/Tore422/DAT250_JPA_Assignment_Experiment1
 
 
-Experiment 2
+Experiment 2<br>
 
 
 
