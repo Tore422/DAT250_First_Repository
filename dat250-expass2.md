@@ -13,6 +13,18 @@ While foolowing the vogella turtorial for experiment 1, I encoutered a few probl
 2. When trying to run the test application in step 4, the program could not find the embedded drivers for derby.<br>
    With some help from my project team members, the problem got resolved by adding the <br>
    derby lib folder, from the derby installation path, to the list of project dependencies.
+3. The class JpaTest from the turtorial had a bug in the deletePerson test,<br>
+   resulting in most of the tests not functioning as intended.<br>
+   The test was set to delete a person from the database with a last name ending<br>
+   in an exclamation mark and not the number 1 as it should have.<br>
+   Since the test was expecting an exception for not finding the user after it got deleted,<br>
+   it was easy to miss that it did not find the user to be deleted in the first place...<br>
+   Fixing this bug required modifying parts of the class, such as:
+   * Using a try/catch looking for the exception only on the part checking for the deleted person.<br>
+   * Adding code for removing the family connection to the deleted person.
+   * Adding code for re-adding the person to the database after deletion.
+   * (for convenience) Added a family to the persons being created in setUp() and deletePerson().
+   
 
 
 
