@@ -38,7 +38,7 @@ https://github.com/Tore422/DAT250_JPA_Assignment_Experiment1_Eclipselink
 
 
 Experiment 2<br>
-
+https://github.com/Tore422/DAT250_JPA_Assignment_Experiment2
 
 
 
