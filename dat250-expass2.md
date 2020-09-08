@@ -53,7 +53,7 @@ after having added data by running the application a couple times.
 
 ![inspecting database for experiment 2, showing table contents](https://github.com/Tore422/DAT250_First_Repository/blob/master/JPA_Experiment2_checking_the_database.png)
 
-![inspecting database for experiment 2, showing tables](https://github.com/Tore422/DAT250_JPA_Assignment_Experiment2/blob/master/JPA_Experiment2_checking_the_database_tables.png)
+![inspecting database for experiment 2, showing tables](https://github.com/Tore422/DAT250_First_Repository/blob/master/JPA_Experiment2_checking_the_database_tables.png)
 
 
 The pictures show the code I used to inspect the database, if more information is needed just ask.
