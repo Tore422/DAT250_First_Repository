@@ -74,7 +74,7 @@ This enables the user to quickly be able to determine how much each customer spe
 
 In addition, the resulting collection displays the total amount paid over all purchases<br>
 and the total number of transactions performed by each customer.<br>
-In other words, the document contains all the values necessary to manually perform the calculation<br>
+In other words, the collection contains all the values necessary to manually perform the calculation<br>
 and confirm the calculated average amount per transaction.
 
 
