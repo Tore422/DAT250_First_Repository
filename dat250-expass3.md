@@ -23,27 +23,26 @@ CRUD operations
 ****************
 
 
-Create 
+Create: 
 ![Insert operations](MongoDB_Pictures/Create.png)
 
 
 
-Read
+Read:
 ![Read operations](MongoDB_Pictures/Read.png)
 
 
 
-Update
+Update:
 ![Update operations](MongoDB_Pictures/Update.png)
 
 
 
-Delete
+Delete:
 ![Remove operations](MongoDB_Pictures/Delete.png)
 
 
 
-BulkWrite
 ![BulkWrite operation](MongoDB_Pictures/BulkWrite.png)
 
 
