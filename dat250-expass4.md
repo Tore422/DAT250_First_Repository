@@ -28,7 +28,12 @@ Link to experiment code
 
 
 
-Experiment 2
+Experiment 2<br>
+https://github.com/Tore422/DAT250_REST_API_Experiment2
+<br>
+Code can be found in Todo and RestService,<br>
+located at [REST API code](https://github.com/Tore422/DAT250_REST_API_Experiment2/blob/master/counters/counters/src/todo/rest/api/RestService.java)
+and [Todo code](https://github.com/Tore422/DAT250_REST_API_Experiment2/blob/master/counters/counters/src/todo/rest/api/Todo.java)
 
 
 
