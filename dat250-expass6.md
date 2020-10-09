@@ -29,8 +29,10 @@ Pending issues
 ---------------
 
 
-None so far
+Might be a little delayed with finishing experiment 2,
+due to having assignments in other subjects that had to be prioritised.
 
+Will update this file when finished.
 
 
 
