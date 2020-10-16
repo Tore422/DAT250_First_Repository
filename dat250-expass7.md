@@ -21,14 +21,14 @@ https://github.com/Tore422/DAT250_RabbitMQ_HelloWorld
 
 
 Experiment 3<br>
-
+https://github.com/Tore422/DAT250_RabbitMQ_WorkQueues
 
 
 
 
 
 Experiment 4<br>
-
+https://github.com/Tore422/DAT250_RabbitMQ_PublishSubscribe
 
 
 
