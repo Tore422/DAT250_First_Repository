@@ -39,10 +39,7 @@ Pending issues
 ---------------
 
 
-Experiment 4 might be a little delayed. Will update when finished.
-
-
-None so far
+None
 
 
 
